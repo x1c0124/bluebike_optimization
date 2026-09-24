@@ -1,4 +1,4 @@
 station,old_capacity,add,remove,new_capacity,cost_per_dock_add,cost_per_dock_remove,total_cost
-Central Square at Mass Ave / Essex St,19,2.0,0.0,21.0,3947,-200,7894.0
-Harvard Square at Mass Ave/ Dunster,19,0.0,0.0,19.0,3947,-200,0.0
-MIT at Mass Ave / Amherst St,31,0.0,0.0,31.0,3947,-200,0.0
+Central Square at Mass Ave / Essex St,19,8.0,0.0,27.0,3947,-200,31576.0
+Harvard Square at Mass Ave/ Dunster,19,5.0,0.0,24.0,3947,-200,19735.0
+MIT at Mass Ave / Amherst St,31,4.0,0.0,35.0,3947,-200,15788.0
