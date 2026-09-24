@@ -28,7 +28,7 @@ import itertools
 import statsmodels.api as sm
 
 # Path to data folder
-DATA_DIR = '/Users/charlotte/Downloads/project/modified data'
+DATA_DIR = 'modified data'
 
 print("=" * 80)
 print("Step 1: 加载和探索数据")

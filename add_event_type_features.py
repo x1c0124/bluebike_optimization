@@ -90,8 +90,8 @@ def add_event_features_to_monthly_file(file_path, event_dates, event_types):
 
 def main():
     # Paths
-    events_file = '/Users/charlotte/Downloads/project/tdgarden_events_with_type.csv'
-    data_dir = '/Users/charlotte/Downloads/project/modified data'
+    events_file = 'tdgarden_events_with_type.csv'
+    data_dir = 'modified data'
 
     # Load events
     print("Loading events from tdgarden_events_with_type.csv...")

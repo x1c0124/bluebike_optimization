@@ -19,7 +19,7 @@ brew install glpk
 
 ### 步骤 3: 运行优化模型
 ```bash
-cd /Users/charlotte/Downloads/project
+cd bluebike_optimization
 python3 bluebikes_optimization_model.py
 ```
 
