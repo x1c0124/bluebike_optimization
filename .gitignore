@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+# 超过 GitHub 100MB 单文件上限
+modified data/merged_all_months.csv
